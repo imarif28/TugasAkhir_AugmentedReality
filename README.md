@@ -21,6 +21,13 @@ This project demonstrates the implementation of an Augmented Reality (AR) applic
 - **Development Environment:** Unity Editor
 - **Version Control:** Git
 
+## Game Documentation
+<div align="center">
+<img src="https://drive.google.com/uc?export=view&id=1iHytSHEeah1OuecQFBOB_Ni6ARfjPuYp" alt="AR Object Placement" width="300"/>
+<img src="https://drive.google.com/uc?export=view&id=1iK7HJNs2nsb9FRM21m2tNYcCa1Kbweio" alt="3D Model Interaction" width="300"/>
+<img src="https://drive.google.com/uc?export=view&id=1i6xbpZWJQ6McCP8Nd_0pfYSmxqi4FhV_" alt="Application UI" width="300"/>
+</div>
+
 ## How the Program Works
 
 ### Main AR System
@@ -174,17 +181,6 @@ Assets/
     └── AR Materials/
 ```
 
-## Known Issues and Limitations
-- Performance may vary on older devices with limited processing power
-- Tracking accuracy depends on environmental lighting conditions
-- Some devices may experience tracking drift in low-texture environments
-- Battery consumption increases during extended AR sessions
-
-## Future Enhancements
-- Multi-user AR collaboration features
-- Cloud anchor support for persistent AR content
-- Advanced occlusion handling for realistic object interaction
-- Machine learning integration for improved object recognition
 
 ## Download Links
 - **APK File and AR Markers:** https://drive.google.com/drive/folders/1jN8O2AOxIt31DC2jq3p3NcIdusP5J-9Q?usp=sharing
